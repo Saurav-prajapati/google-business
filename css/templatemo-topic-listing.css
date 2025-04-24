@@ -11,15 +11,15 @@ https://templatemo.com/tm-590-topic-listing
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #ADEFD1FF;
-  --secondary-color:              #00203FFF;
+  --primary-color:                #f5b43e;
+  --secondary-color:              #55371d;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #00203FFF;
-  --custom-btn-bg-hover-color:    #ADEFD1FF;
+  --custom-btn-bg-color:          #55371d;
+  --custom-btn-bg-hover-color:    #f5b43e;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
-  --link-hover-color:             #ADEFD1FF;
+  --link-hover-color:             #f5b43e;
 
   --body-font-family:             'Poppins', sans-serif;
   --title-font-family:            'Montserrat', sans-serif;
@@ -147,7 +147,7 @@ strong {
 }
 
 .section-overlay {
-  background-image: linear-gradient(15deg, #ADEFD1FF 0%, #00203FFF 100%);
+  background-image: linear-gradient(15deg, #f5b43e 0%, #55371d 100%);
   position: absolute;
   top: 0;
   left: 0;
@@ -248,7 +248,7 @@ strong {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background-image: linear-gradient(15deg, #ADEFD1FF 0%, #00203FFF 100%);
+  background-image: linear-gradient(15deg, #f5b43e 0%, #55371d 100%);
   padding-top: 150px;
   padding-bottom: 80px;
 }
@@ -325,10 +325,10 @@ strong {
 
 .navbar-nav .nav-link.active, 
 .navbar-nav .nav-link:hover {
-  color: #00203FFF;
+  color: #55371d;
 }
 .navbar-brand{
-  color: #00203FFF;
+  color: #55371d;
 }
 
 .navbar .dropdown-menu {
@@ -489,7 +489,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: linear-gradient(15deg, #ADEFD1FF 0%, #00203FFF 100%);
+  background-image: linear-gradient(15deg, #f5b43e 0%, #55371d 100%);
   position: relative;
   overflow: hidden;
   padding-top: 150px;
